@@ -1,0 +1,23 @@
+User-agent: *
+Allow: /
+Disallow: /index.html?
+Disallow: /?
+Disallow: /forms/
+User-Agent: MJ12bot
+Disallow: /
+User-Agent: AhrefsBot
+Disallow: /
+User-Agent: Baiduspider
+Disallow: /
+User-Agent: Ezooms
+Disallow: /
+User-Agent: YandexBot
+Disallow: /
+User-Agent: NetSeer
+Disallow: /
+User-Agent: proximic
+Disallow: / 
+User-agent: spbot
+Disallow: /
+
+Sitemap: https://www.a-cubed.tk/sitemap.xml
