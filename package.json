@@ -4,10 +4,11 @@
     "description": "A minimalist Web Server with Node.js",
     "main": "server.js",
     "scripts": {
+        "build": "npm install && node server.js",
         "test": "echo \"Error: no test specified\" && exit 1"
     },
     "keywords": [],
-    "author": "Pavan Solapure",
+    "author": "Ade Adekoya",
     "license": "ISC",
     "dependencies": {
         "express": "^4.16.3",
