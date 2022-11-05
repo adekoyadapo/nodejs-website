@@ -2,6 +2,7 @@
 /node_modules
 # Hugo default output directory
 /public
+.hugo_build.lock
 
 ## OS Files
 # Windows
@@ -10,5 +11,7 @@ ehthumbs.db
 Desktop.ini
 $RECYCLE.BIN/
 
+
 # OSX
 .DS_Store
+.tool-versions
